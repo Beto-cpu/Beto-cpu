@@ -8,6 +8,6 @@ const Beto = {
     programming_languages: ['Javascript', 'Java', 'Python', 'Labview'],
     tools: ['Node', 'SQL', 'Mongo', 'CSS', 'HTML', 'REACT', 'NextJS'],
     role: 'Engineering student',
-    interests: ['Machine Learning', 'Web develop']
+    interests: ['Machine Learning', 'Web development']
  };
 ```
